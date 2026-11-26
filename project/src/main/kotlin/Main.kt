@@ -1,4 +1,6 @@
 
+fun printGreeting() = println("Hello World")
+
 fun main() {
-    println("Hello World")
+    printGreeting()
 }
